@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Matplotlib Data Visualization Workspace & Masterclass Notes
+# 📊 Matplotlib & Seaborn Data Visualization Workspace & Masterclass Notes
 
 > *A comprehensive, hands-on repository dedicated to mastering static, animated, and interactive data visualization using Python's foundational plotting library.*
 
@@ -34,6 +34,7 @@ This project leverages a robust data science toolchain to generate, manipulate, 
 | :--- | :--- | :--- |
 | **Core Language** | **Python 3.x** | Writing core execution scripts and automation scripts. |
 | **Plotting Engine** | **Matplotlib** | Creating foundational charts, subplots, custom styling, and figure exports. |
+| **Statistical Plotting** | **Seaborn** | Building high-level statistical graphics (heatmaps, violin plots, regression plots) built on top of Matplotlib. |
 | **Numerical Engine** | **NumPy** | Generating arrays, mathematical functions (`sin`, `cos`), and linear algebra transformations for plotting data. |
 | **Data Manipulation** | **Pandas** | Loading tabular datasets, time-series data wrangling, and structured data preparation. |
 | **Environment** | **Jupyter Lab / VS Code** | Interactive notebook prototyping and real-time rendering. |
